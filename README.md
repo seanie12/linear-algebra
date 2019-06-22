@@ -1,2 +1,2 @@
-# linear-algebra
+# Class notes of Linear Algebra 
 Linear Algebra
