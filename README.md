@@ -7,6 +7,7 @@ The members of study group are [Jonghwan Jang](https://github.com/jjongjjong), D
 
 [선형대수와 군](https://g.co/kgs/FvUCG1)
 
-
+## Fundamental Theorem of Linear algebra
+Please see the blog [post](https://seanie12.github.io/blog/linear%20algrbra/fudamental-theorem-of-linear-algebra/).
 ## Least Square
 Look at the [colab](https://colab.research.google.com/github/seanie12/linear-algebra/blob/master/linear_regression.ipynb#scrollTo=c92wdbOfmY78).
